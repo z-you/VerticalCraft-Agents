@@ -1,0 +1,11 @@
+langchain==1.4.7
+# langchain-core==1.7.0
+# langchain-protocol==0.0.20
+# langgraph==1.2.17
+# langgraph-checkpoint==4.3.0
+# langgraph-prebuilt==1.1.1
+# langgraph-sdk==0.4.9
+# langsmith==0.14.12
+
+dotenv==0.9.9
+python-dotenv==1.2.4
